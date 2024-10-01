@@ -6,7 +6,7 @@
 
 <p align="center">
   The Inferno Framework helps you write, execute and share conformance tests<br> for
-  Fast Healthcare Interoperability Resources (FHIR®) APIs.
+  the Fast Healthcare Interoperability Resources (FHIR®) standard.
 </p>
 
 <p align="center">
@@ -14,6 +14,6 @@
   &nbsp; -  &nbsp;
   <a href="https://inferno-framework.github.io/docs/">Documentation</a>
   &nbsp; - &nbsp;
-  <a href="https://inferno-framework.github.io/about/who.html">Contact</a>
+  <a href="https://inferno.healthit.gov">Try on HealthIT.gov</a>
 
 </p>
